@@ -1,0 +1,2 @@
+python detection.py
+pause
